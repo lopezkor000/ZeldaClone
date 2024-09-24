@@ -30,3 +30,5 @@ weapon_data = {
   'rapier': {'cooldown': 50, 'damage': 8, 'graphic': 'graphics/weapons/rapier/full.png'},
   'sai': {'cooldown': 80, 'damage': 10, 'graphic': 'graphics/weapons/sai/full.png'},
 }
+
+# TODO magic
